@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; I’m currently learning TypeScript, VR development.
 - 💼 &nbsp; Fullstack web developer.
-- 🌱 &nbsp; Have an extra intrest in: VR, AI, Cyber Security & Web.
+- 🌱 &nbsp; Have an extra intrest in: AI, Cyber Security & Web.
 - ☕ &nbsp; Coffee is something I love! Nothing better than a good espresso.
 
 <h3>🛠 Tech Stack</h3>
