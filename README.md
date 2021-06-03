@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning TypeScript, VR development.
+- 🔭 &nbsp; Currently learning flutter and GoLang
 - 💼 &nbsp; Fullstack web developer.
 - 🌱 &nbsp; Have an extra intrest in: AI, Cyber Security & Web.
 - ☕ &nbsp; Coffee is something I love! Nothing better than a good espresso.
