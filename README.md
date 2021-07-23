@@ -1,4 +1,4 @@
-<h2> Hey there! I'm <a href="https://pluppen.codes" target="_blank">Pluppen</a>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm <a href="https://pluppen.com" target="_blank">Pluppen</a>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
