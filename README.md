@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently learning Flutter
 - 💼 &nbsp; Fullstack Web Developer.
 - 🌱 &nbsp; Have an extra intrest in: AI, Cyber Security & Web.
 - ☕ &nbsp; Coffee is something I love! Nothing better than a good espresso.
