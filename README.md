@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Fullstack Web Developer.
-- 🌱 &nbsp; Have an extra intrest in: AI, Cyber Security & Web.
+- 🌱 &nbsp; Have an extra intrest in: Design, Cyber Security & Web.
 - ☕ &nbsp; Coffee is something I love! Nothing better than a good espresso.
 
 <h3> 🤝🏻 Connect with Me </h3>
